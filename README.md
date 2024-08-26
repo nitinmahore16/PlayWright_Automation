@@ -23,4 +23,4 @@ automationAssignment/
 ├── package-lock.json
 ├── package.json
 ├── playwright.config.js
-└── ReadMe.MD
+└── ReadME.MD
