@@ -1,11 +1,12 @@
-PlaywrightDemo
+# PlaywrightDemo
 
 This assignment demonstrates how to create UI tests using Playwright and JavaScript, following the Page Object Model (POM) framework. The project includes instructions for setting up and executing the tests.
 
-Project Structure
+## Project Structure
 
-Assignment/
-├──PlayWright
+```
+Framework Achitecture/
+├──PLAYWRIGHT
 ├── data/
 │   ├── testData.json
 ├── node_modules/
@@ -30,5 +31,5 @@ Assignment/
 ├── package-lock.json
 ├── package.json
 ├── playwright.config.js
-└── ReadME.MD
-
+└── README.md
+```
