@@ -1,0 +1,21 @@
+{
+    "user": {
+      "name": "Nitin Mahore",
+      "email": "nitinmahore16@gmail.com",
+      "password": "Test@123",
+      "day": "16",
+      "month": "10",
+      "year": "1996",
+      "firstName": "Nitin",
+      "lastName": "Mahore",
+      "company": "Testflo",
+      "address1": "Sector-134",
+      "address2": "Noida",
+      "country": "India",
+      "state": "UP",
+      "city": "Noida",
+      "zipcode": "201304",
+      "mobile": "8770092721"
+    }
+  }
+  
